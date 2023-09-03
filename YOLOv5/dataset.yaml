@@ -1,0 +1,5 @@
+train: C:\Users\Suhan\PycharmProjects\CustomData\train
+val: C:\Users\Suhan\PycharmProjects\CustomData\test
+
+nc: 1
+names: ['butterfly']
